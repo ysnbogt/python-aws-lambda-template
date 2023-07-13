@@ -1,0 +1,10 @@
+__pycache__/
+docs_src/
+
+packages/*
+!packages/.gitkeep
+!packages/Makefile
+
+layer.zip
+
+.ruff_cache
